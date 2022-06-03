@@ -1,0 +1,14 @@
+
+public class Lab3 {
+
+	public static void main(String[] args) { // String args[]
+	
+		// declare public variables 
+		
+		float f, c;
+		
+		
+		
+	}
+
+}
